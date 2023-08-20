@@ -1,4 +1,4 @@
-###(っ◔◡◔)っ Salamandr, I'm Bash 
+<h1>(っ◔◡◔)っ SALAMandr, I'm Bash</h1>
 
 <!--
 **PavletsovGIT/PavletsovGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
