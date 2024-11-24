@@ -7,7 +7,7 @@
 
 <details>
   <summary><h2>🔗 SOCIALS:</h2></summary>
-  <a href="https://t.me/salamandr_bash">
+  <a href="https://t.me/ebashiox">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </details>
